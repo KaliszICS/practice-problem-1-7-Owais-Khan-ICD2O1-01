@@ -1,3 +1,10 @@
+'''
+	Lesson 1.7 - Booleans
+	Author: Mr. Kalisz
+	Date Created: September 17, 2021
+	Date Last Modified: February 15, 2022
+'''
+
 def q1():
   bool1 = True
   print(bool1)
@@ -7,7 +14,7 @@ def q2():
   print(bool1 > '5')
 
 def q3():
-  bool1 = input("Input the letter a:")
+  bool1 = input("Input the letter a: ")
   print(bool1 == 'a')
 
 def q4():
