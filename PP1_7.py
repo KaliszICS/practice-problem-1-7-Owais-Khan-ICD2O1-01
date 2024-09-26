@@ -1,8 +1,8 @@
 '''
 	Lesson 1.7 - Booleans
-	Author: Mr. Kalisz
+	Author: Owais Ali Khan
 	Date Created: September 17, 2021
-	Date Last Modified: February 15, 2022
+	Date Last Modified: Sebtember 26, 2024
 '''
 
 def q1():
